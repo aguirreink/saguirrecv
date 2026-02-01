@@ -98,7 +98,7 @@ main{padding:18px 16px 46px}
 
 .cv-stack img{
   width:100%;
-  max-width: 820px; /* ancho editorial */
+  max-width: 1100px; /* igual que wrap/grid */
   height:auto;
   display:block;
   margin:0 auto;
@@ -106,8 +106,8 @@ main{padding:18px 16px 46px}
 
 .cv-row{
   display:flex;
-  gap:0;            /* pon 12px si quieres separación entre A y B */
-  max-width: 820px; /* mismo ancho editorial */
+  gap:0;
+  max-width: 1100px; /* igual que wrap/grid */
   margin:0 auto;
 }
 
